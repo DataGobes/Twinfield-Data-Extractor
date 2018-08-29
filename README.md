@@ -7,4 +7,3 @@ This repo contains a python script that can run queries on the Twinfield webserv
 - Now you can run 'twinfield.py'. The output will be written to twinfield.xml (raw xml output) and twinfield.csv (parsed xml to csv)
 - The script has some minimal logging output in 'twinfield.log', you can tweak it by editing the logger in 'twinfield.py'
 - The repo contains example output files exported from the twinfield demo environment.
-- Also contained in the repo is a Power BI report file containing an example table from the twinfield data.
