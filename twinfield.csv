@@ -1,0 +1,49 @@
+,Administratie,Adm.naam,Jaar,Periode,Dagboek,Boekingsnummer,Status,Boekdatum,Grootboekrek.,Grootboekrek.naam,Dimensietype 1,Basisbedrag,D/C
+0,NLA000311,Infradata B.V. (demo data),2018,1,ACTIVA,201800001,final,20180103,0180,Nog te activeren activa,BAS,-40000.00,credit
+1,NLA000311,Infradata B.V. (demo data),2018,1,ACTIVA,201800001,final,20180103,0130,Machines,BAS,40000.00,debit
+2,NLA000311,Infradata B.V. (demo data),2018,1,ACTIVA,201800002,final,20171017,0135,Afschr machines,BAS,-658.61,credit
+3,NLA000311,Infradata B.V. (demo data),2018,1,ACTIVA,201800002,final,20171017,4730,Afschr kstn machines,PNL,658.61,debit
+4,NLA000311,Infradata B.V. (demo data),2018,2,ACTIVA,201800003,final,20171017,0135,Afschr machines,BAS,-729.17,credit
+5,NLA000311,Infradata B.V. (demo data),2018,2,ACTIVA,201800003,final,20171017,4730,Afschr kstn machines,PNL,729.17,debit
+6,NLA000311,Infradata B.V. (demo data),2018,3,ACTIVA,201800004,final,20171017,0135,Afschr machines,BAS,-729.17,credit
+7,NLA000311,Infradata B.V. (demo data),2018,3,ACTIVA,201800004,final,20171017,4730,Afschr kstn machines,PNL,729.17,debit
+8,NLA000311,Infradata B.V. (demo data),2018,1,ACTIVA,201800005,final,20171017,0135,Afschr machines,BAS,4516.13,debit
+9,NLA000311,Infradata B.V. (demo data),2018,1,ACTIVA,201800005,final,20171017,4730,Afschr kstn machines,PNL,-4516.13,credit
+10,NLA000311,Infradata B.V. (demo data),2018,2,ACTIVA,201800006,final,20171017,0135,Afschr machines,BAS,483.87,debit
+11,NLA000311,Infradata B.V. (demo data),2018,2,ACTIVA,201800006,final,20171017,4730,Afschr kstn machines,PNL,-483.87,credit
+12,NLA000311,Infradata B.V. (demo data),2017,10,INCASSO-OW,1,final,20171018,1150,Incasso onderweg,BAS,100.00,debit
+13,NLA000311,Infradata B.V. (demo data),2017,10,INCASSO-OW,1,final,20171018,1300,Debiteuren,BAS,-100.00,credit
+14,NLA000311,Infradata B.V. (demo data),2017,8,INK,201700001,temporary,20170830,1600,Crediteuren,BAS,-1210.00,credit
+15,NLA000311,Infradata B.V. (demo data),2017,8,INK,201700001,temporary,20170830,4805,Drukwerk/papier,PNL,800.00,debit
+16,NLA000311,Infradata B.V. (demo data),2017,8,INK,201700001,temporary,20170830,4800,Kantoorartikelen,PNL,200.00,debit
+17,NLA000311,Infradata B.V. (demo data),2017,8,INK,201700001,temporary,20170830,1510,Te vord OB hoog,BAS,210.00,debit
+18,NLA000311,Infradata B.V. (demo data),2018,1,INK,201800001,final,20180101,1600,Crediteuren,BAS,-1210.00,credit
+19,NLA000311,Infradata B.V. (demo data),2018,1,INK,201800001,final,20180101,4000,Salaris,PNL,800.00,debit
+20,NLA000311,Infradata B.V. (demo data),2018,1,INK,201800001,final,20180101,4032,Ingehouden sociale lasten,PNL,200.00,debit
+21,NLA000311,Infradata B.V. (demo data),2018,1,INK,201800001,final,20180101,1510,Te vord OB hoog,BAS,210.00,debit
+22,NLA000311,Infradata B.V. (demo data),2017,56,JAAREIND-BAL,5,temporary,20171231,0895,Resultaat vorig boekjaar,BAS,-900.00,credit
+23,NLA000311,Infradata B.V. (demo data),2017,56,JAAREIND-BAL,5,temporary,20171231,1300,Debiteuren,BAS,-100.00,credit
+24,NLA000311,Infradata B.V. (demo data),2017,56,JAAREIND-BAL,5,temporary,20171231,1510,Te vord OB hoog,BAS,-210.00,credit
+25,NLA000311,Infradata B.V. (demo data),2017,56,JAAREIND-BAL,5,temporary,20171231,1600,Crediteuren,BAS,1210.00,debit
+26,NLA000311,Infradata B.V. (demo data),2018,0,JAAREIND-BAL,6,temporary,20180101,0895,Resultaat vorig boekjaar,BAS,900.00,debit
+27,NLA000311,Infradata B.V. (demo data),2018,0,JAAREIND-BAL,6,temporary,20180101,1300,Debiteuren,BAS,100.00,debit
+28,NLA000311,Infradata B.V. (demo data),2018,0,JAAREIND-BAL,6,temporary,20180101,1510,Te vord OB hoog,BAS,210.00,debit
+29,NLA000311,Infradata B.V. (demo data),2018,0,JAAREIND-BAL,6,temporary,20180101,1600,Crediteuren,BAS,-1210.00,credit
+30,NLA000311,Infradata B.V. (demo data),2017,56,JAAREIND-PNL,4,temporary,20171231,9900,Tegenrekening winst & verlies,PNL,900.00,debit
+31,NLA000311,Infradata B.V. (demo data),2017,56,JAAREIND-PNL,4,temporary,20171231,4800,Kantoorartikelen,PNL,-200.00,credit
+32,NLA000311,Infradata B.V. (demo data),2017,56,JAAREIND-PNL,4,temporary,20171231,4805,Drukwerk/papier,PNL,-800.00,credit
+33,NLA000311,Infradata B.V. (demo data),2017,56,JAAREIND-PNL,4,temporary,20171231,4875,Overige kantoorkosten,PNL,2811.76,debit
+34,NLA000311,Infradata B.V. (demo data),2017,56,JAAREIND-PNL,4,temporary,20171231,4885,Overige algemene kosten,PNL,-2811.76,credit
+35,NLA000311,Infradata B.V. (demo data),2017,56,JAAREIND-PNL,4,temporary,20171231,8020,Omzet hoog,PNL,100.00,debit
+36,NLA000311,Infradata B.V. (demo data),2017,10,MEMO,201700001,temporary,20171015,4885,Overige algemene kosten,PNL,2811.76,debit
+37,NLA000311,Infradata B.V. (demo data),2017,10,MEMO,201700001,temporary,20171015,4875,Overige kantoorkosten,PNL,-2811.76,credit
+38,NLA000311,Infradata B.V. (demo data),2018,1,MEMO,201800001,temporary,20180101,4000,Salaris,PNL,1500.00,debit
+39,NLA000311,Infradata B.V. (demo data),2018,1,MEMO,201800001,temporary,20180101,4004,Bonussen/gratificaties,PNL,-1239.67,credit
+40,NLA000311,Infradata B.V. (demo data),2018,1,MEMO,201800001,temporary,20180101,1530,Te betalen OB hoog,BAS,-260.33,credit
+41,NLA000311,Infradata B.V. (demo data),2017,1,VRK,201700001,temporary,20170101,1300,Debiteuren,BAS,100.00,debit
+42,NLA000311,Infradata B.V. (demo data),2017,1,VRK,201700001,temporary,20170101,8020,Omzet hoog,PNL,-100.00,credit
+43,NLA000311,Infradata B.V. (demo data),2017,1,VRK,201700001,temporary,20170101,1541,Leveringen naar landen binnen EU,BAS,0.00,debit
+44,NLA000311,Infradata B.V. (demo data),2018,1,VRK,201800001,temporary,20180102,1300,Debiteuren,BAS,121.00,debit
+45,NLA000311,Infradata B.V. (demo data),2018,1,VRK,201800001,temporary,20180102,8020,Omzet hoog,PNL,-80.00,credit
+46,NLA000311,Infradata B.V. (demo data),2018,1,VRK,201800001,temporary,20180102,8010,Omzet laag,PNL,-20.00,credit
+47,NLA000311,Infradata B.V. (demo data),2018,1,VRK,201800001,temporary,20180102,1530,Te betalen OB hoog,BAS,-21.00,credit

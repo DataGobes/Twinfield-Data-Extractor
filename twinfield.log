@@ -1,0 +1,12 @@
+2018-08-27 16:40:57,041 root         DEBUG    response received of 58247 characters
+2018-08-27 16:40:57,051 root         DEBUG    Raw XML file written
+2018-08-27 16:40:57,067 root         DEBUG    CSV file written with 48 lines
+2018-08-27 16:56:38,463 root         DEBUG    response received of 58247 characters
+2018-08-27 16:56:38,477 root         DEBUG    Raw XML file written
+2018-08-27 16:56:38,510 root         DEBUG    CSV file written with 48 lines
+2018-08-27 16:58:14,906 root         DEBUG    response received of 58247 characters
+2018-08-27 16:58:14,913 root         DEBUG    Raw XML file written: twinfield.xml
+2018-08-27 16:58:14,927 root         DEBUG    CSV file written with 48 lines
+2018-08-27 16:58:52,205 root         DEBUG    response received of 58247 characters
+2018-08-27 16:58:52,212 root         DEBUG    Raw XML file written: twinfield.xml
+2018-08-27 16:58:52,226 root         DEBUG    CSV file written with 48 lines
